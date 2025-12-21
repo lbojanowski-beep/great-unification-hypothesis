@@ -159,6 +159,21 @@ It does not constitute scientific proof, medical advice, or engineering guidance
 
 ---
 
+## 9. Applied Research
+
+This repository also hosts **applied research briefs** derived from the
+Great Unification Hypothesis and the I.I.L. methodology.
+
+These documents do **not claim clinical efficacy**.
+They are intended as **open research prompts** for independent laboratories,
+universities, and medical institutions.
+
+### Current Applied Briefs
+- Neurodegeneration (Alzheimer’s, Parkinson’s, ALS)
+  → see: /applied-research/neurodegeneration/
+  
+---
+
 ## Closing Statement
 
 The Great Unification Hypothesis is an invitation to explore—not a declaration of discovery.
