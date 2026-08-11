@@ -175,8 +175,8 @@ Any future application claims would require:
 **Readiness:** Suitable for academic discussion, conceptual modeling, and interdisciplinary critique — not for applied expansion beyond existing placeholders.
 
 **Prioritized next steps:**
-1. Produce a one-page effective model or stochastic description for a **chosen** field proxy.
-2. Publish an energy-budget table versus \(kT\) and known backgrounds. → see [`docs/energy-budget-sketch.md`](./docs/energy-budget-sketch.md)
+1. Produce a one-page effective model or stochastic description for a **chosen** field proxy. → see [`docs/proxy-model-rp-geomagnetic.md`](./docs/proxy-model-rp-geomagnetic.md) (§0 gate: pre-register a deviation from standard RP before any GUH-bearing toy model).
+2. Publish an energy-budget table versus \(kT\) and known backgrounds. → see [`docs/energy-budget-sketch.md`](./docs/energy-budget-sketch.md); filled Chosen proxy: [`docs/chosen-proxy.md`](./docs/chosen-proxy.md)
 3. Pre-register falsifiers for that proxy / transducer pair.
 4. Seek peer critique of the model, budget, and falsifiers.
 5. Only then consider **Option B** (literal scalar / dark-energy coupling consistent with bounds) or expansion of applied briefs.
