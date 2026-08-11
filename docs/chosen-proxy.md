@@ -48,6 +48,8 @@ Standard RP falsifiers (orientation dependence, Earth-strength window, RF cutoff
 
 Without that, every agreement with RP literature looks like GUH success and every difference looks like GUH signal — a test that cannot lose.
 
+See `proxy-model-rp-geomagnetic.md` §§0.1–0.2: \(\delta\) must be **derived from GUH’s own content**, not chosen for measurability against the RP apparatus. The gate may be **honestly unfillable** (cosmological / holographic frame with no derivation chain to cryptochrome yields); leaving \(\delta\) blank and reporting that outcome is a valid result of the same class as a no-go note. **Inventing \(\delta\) to unblock a toy model is forbidden.**
+
 ---
 
 ## Energy framing

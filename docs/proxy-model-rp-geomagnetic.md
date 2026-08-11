@@ -24,6 +24,30 @@ Before any toy-Hamiltonian computation of \(\Phi_S(B,\theta)\) at \(50\,\mu\math
 
 **Rule:** without a filled deviation row, every agreement with RP looks like GUH success and every difference looks like GUH signal — a test that cannot lose. **Do not run the §7 toy model as a GUH test until this table is filled.**
 
+### 0.1 Derivation test (before filling δ)
+
+**δ must be derived from GUH’s own content, not fitted to the apparatus.**
+
+Before writing anything into the “Predicted GUH deviation” row, answer:
+
+1. Can δ be **derived** from the substance of GUH (its cosmological / holographic / background-field commitments) via an explicit chain of steps that ends at an RP observable (e.g. a shift in \(\Phi_S\), a changed RF cutoff, a changed Earth-strength window)?
+2. Or would δ have to be **chosen** because it is measurable with the RP scaffolding we already have?
+
+- If (1): fill §0; the program is real.
+- If (2): **do not fill §0.** A number shaped like a prediction but chosen for measurability is a formality wearing prediction’s clothes — harder to catch than the original non-bearing test, because it has the external marks of discipline.
+
+### 0.2 The gate may be honestly unfillable
+
+GUH is a cosmological / holographic-scale frame. “What does that frame predict about cryptochrome recombination yields?” may have **no honest answer** — not because GUH is worthless, but because the scales are not joined by any derivation chain.
+
+If so, the correct outcome is:
+
+- leave the δ row **empty**;
+- **report** that outcome explicitly: we built the filter, acquired RP scaffolding, and cannot derive from GUH any deviation that this scaffolding could measure;
+- treat that report as a result of the same class as an impossibility / no-go note: it tells the next person this path leads to scaffolding, not to a GUH-bearing test, and why.
+
+**Filling §0 with anything just to proceed is worse than leaving it blank.**
+
 ---
 
 ## 1. What GUH claims vs what it borrows
@@ -99,7 +123,7 @@ Neurodegeneration; consciousness unification; Dark Energy coupling; human compas
 
 ## 7. Next modeling steps (order enforced)
 
-1. **Fill §0** — predicted deviation \(\delta\) from standard RP + win/lose conditions. **Hard gate.**  
+1. **Fill §0** — attempt derivation test (§0.1); if unfillable, publish the blank-gate report (§0.2) instead of inventing \(\delta\). Only if derived: predicted deviation \(\delta\) from standard RP + win/lose conditions. **Hard gate.**  
 2. Only then: hyperfine toy model for \(\Phi_S(B,\theta)\) at \(50\,\mu\mathrm{T}\), with separate columns for \(\mathrm{RP_{std}}\) vs \(\mathrm{RP_{std}}+\delta\).  
 3. Coherence/lifetime bounds for detectability of \(\delta\) (not merely of RP).  
 4. Optional: RF probe spectrum vs 116 MHz cutoff as calibration of the apparatus — still scaffolding unless \(\delta\) lives in the spectrum.  
