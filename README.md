@@ -176,7 +176,7 @@ Any future application claims would require:
 
 **Prioritized next steps:**
 1. Produce a one-page effective model or stochastic description for a **chosen** field proxy.
-2. Publish an energy-budget table versus \(kT\) and known backgrounds.
+2. Publish an energy-budget table versus \(kT\) and known backgrounds. → see [`docs/energy-budget-sketch.md`](./docs/energy-budget-sketch.md)
 3. Pre-register falsifiers for that proxy / transducer pair.
 4. Seek peer critique of the model, budget, and falsifiers.
 5. Only then consider **Option B** (literal scalar / dark-energy coupling consistent with bounds) or expansion of applied briefs.
