@@ -211,7 +211,7 @@ Rules for this section:
 Applied briefs remain subordinate to an Option A or Option B commitment plus published falsifiers; they do not expand the core claim.
 
 ### Current Applied Briefs
-- Neurodegeneration (Alzheimer’s, Parkinson’s, ALS) — **questions only / non-clinical**
+- Neurodegeneration — **questions only / non-clinical**
   → see: [`/applied-research/neurodegeneration/`](./applied-research/neurodegeneration/)
 
 ---
