@@ -161,17 +161,24 @@ It does not constitute scientific proof, medical advice, or engineering guidance
 
 ## 9. Applied Research
 
-This repository also hosts **applied research briefs** derived from the
+**Status:** placeholder only — open research prompts, not findings.
+
+This repository may host **applied research briefs** derived from the
 Great Unification Hypothesis and the I.I.L. methodology.
 
-These documents do **not claim clinical efficacy**.
-They are intended as **open research prompts** for independent laboratories,
-universities, and medical institutions.
+These documents do **not claim clinical efficacy**, diagnostic value, or
+treatment guidance. They are intended as **open research prompts** for
+independent laboratories, universities, and medical institutions.
+
+Rules for this section:
+1. A path is listed here only when the corresponding files exist in the repo.
+2. Briefs state open questions and candidate null hypotheses — not mechanisms of treatment.
+3. GUH’s core claim does not depend on any applied brief.
 
 ### Current Applied Briefs
-- Neurodegeneration (Alzheimer’s, Parkinson’s, ALS)
-  → see: /applied-research/neurodegeneration/
-  
+- Neurodegeneration (Alzheimer’s, Parkinson’s, ALS) — **questions only / non-clinical**
+  → see: [`/applied-research/neurodegeneration/`](./applied-research/neurodegeneration/)
+
 ---
 
 ## Closing Statement
