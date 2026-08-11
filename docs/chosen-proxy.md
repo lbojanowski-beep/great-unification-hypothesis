@@ -50,6 +50,8 @@ Without that, every agreement with RP literature looks like GUH success and ever
 
 See `proxy-model-rp-geomagnetic.md` §§0.1–0.2: \(\delta\) must be **derived from GUH’s own content**, not chosen for measurability against the RP apparatus. The gate may be **honestly unfillable** (cosmological / holographic frame with no derivation chain to cryptochrome yields); leaving \(\delta\) blank and reporting that outcome is a valid result of the same class as a no-go note. **Inventing \(\delta\) to unblock a toy model is forbidden.**
 
+See also §§0.3–0.4: any derived \(\delta\) must enter through the **closed RP Hamiltonian slot list** (Zeeman/\(g\), hyperfine \(A\), exchange/dipolar, decoherence rate) via an explicit link-by-link worksheet. A third outcome — **derivable but unmeasurable** — covers magnitudes ≪ noise; those must be reported with an OOM comparison, not entered as a GUH-win/lose bet. If the decoherence slot is chosen, an order-of-magnitude check against chemical decoherence is **mandatory** before any lab framing.
+
 ---
 
 ## Energy framing

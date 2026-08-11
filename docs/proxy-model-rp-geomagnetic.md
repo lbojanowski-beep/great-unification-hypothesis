@@ -48,6 +48,43 @@ If so, the correct outcome is:
 
 **Filling §0 with anything just to proceed is worse than leaving it blank.**
 
+### 0.3 Third outcome: derivable but unmeasurable
+
+Distinct from §0.2 (no honest derivation) and from “ready to test”:
+
+- δ **can** be derived from GUH content into one of the RP Hamiltonian slots below, **but**
+- its predicted magnitude sits many orders of magnitude below chemical / thermal / instrumental noise at room temperature in protein (or below the resolution of the chosen assay).
+
+Such a δ is formally derived and **practically empty**. It must **not** be entered into §0 as a GUH-win/lose bet. Report it under this heading with an order-of-magnitude comparison to the dominant decoherence / noise scale.
+
+**Temptation warning — decoherence:** “Gravitational / holographic decoherence” often looks like the most natural cosmological-frame contact with RP physics. There is already literature in that neighborhood; predicted rates are typically astronomically small compared with chemical decoherence in a room-temperature protein. If decoherence is the candidate slot, **compute the order of magnitude first**. A δ ~20 orders below noise is category §0.3, not a lab program.
+
+### 0.4 Derivation-chain worksheet (fill link by link)
+
+Write the chain explicitly. Do not skip to a measurable number.
+
+**Required shape:**
+
+1. GUH holographic / boundary / cosmological commitment (state the exact claim used)  
+2. → implied modification of local vacuum and/or metric (what quantity changes?)  
+3. → influence on a **specific term in the RP spin Hamiltonian** (must be one of the closed list below)  
+4. → predicted change in an RP observable at Earth strength (e.g. \(\Delta\Phi_S\) at \(50\,\mu\mathrm{T}\), shift of RF cutoff, shift of functional window) with magnitude
+
+**Closed list for step 3** (RP Hamiltonian has finitely many entry points — not an open menu):
+
+| Slot | Examples of “GUH would have to speak about…” |
+|---|---|
+| Zeeman / \(g\)-factor | Effective \(g\), local \(B\) renormalization felt by the pair |
+| Hyperfine tensor \(A\) | Electronic density at nuclei, geometry that sets anisotropic \(A\) |
+| Exchange / dipolar | Radical–radical distance/orientation, \(J\), dipolar coupling |
+| Decoherence rate | Extra channel beyond chemical decoherence; **see §0.3 warning** |
+
+**Derivability test:** Does GUH’s own text/commitments say anything that constrains **any** of these four slots via steps 1→2→3?  
+
+- Yes, with magnitude above noise → fill §0 (ready to test).  
+- Yes, but magnitude ≪ noise → §0.3 report (derivable but unmeasurable).  
+- No / chain breaks at step 2 or 3 → leave δ empty; §0.2 blank-gate report.
+
 ---
 
 ## 1. What GUH claims vs what it borrows
@@ -123,7 +160,7 @@ Neurodegeneration; consciousness unification; Dark Energy coupling; human compas
 
 ## 7. Next modeling steps (order enforced)
 
-1. **Fill §0** — attempt derivation test (§0.1); if unfillable, publish the blank-gate report (§0.2) instead of inventing \(\delta\). Only if derived: predicted deviation \(\delta\) from standard RP + win/lose conditions. **Hard gate.**  
+1. **Fill §0** — run derivation-chain worksheet (§0.4) after derivation test (§0.1). Three outcomes: **ready to test** (fill \(\delta\) + win/lose); **blank-gate** (§0.2 — publish empty-\(\delta\) report, do not invent \(\delta\)); **derivable but unmeasurable** (§0.3 — OOM report, do not enter as a GUH-win/lose bet). **Hard gate.**  
 2. Only then: hyperfine toy model for \(\Phi_S(B,\theta)\) at \(50\,\mu\mathrm{T}\), with separate columns for \(\mathrm{RP_{std}}\) vs \(\mathrm{RP_{std}}+\delta\).  
 3. Coherence/lifetime bounds for detectability of \(\delta\) (not merely of RP).  
 4. Optional: RF probe spectrum vs 116 MHz cutoff as calibration of the apparatus — still scaffolding unless \(\delta\) lives in the spectrum.  
