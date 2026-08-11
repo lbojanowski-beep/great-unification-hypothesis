@@ -172,12 +172,13 @@ Any future application claims would require:
 ## 7. Status & Next Steps
 
 **Current Status:** Conceptual / Exploratory (Option A)  
-**Readiness:** Suitable for academic discussion, conceptual modeling, and interdisciplinary critique — not for applied expansion beyond existing placeholders.
+**Readiness:** Suitable for academic discussion, conceptual modeling, and interdisciplinary critique — not for applied expansion beyond existing placeholders.  
+**Claim status (v1.2):** Methodological scaffolding is in place (`docs/energy-budget-sketch.md`, `docs/chosen-proxy.md`, `docs/proxy-model-rp-geomagnetic.md`); **no GUH-bearing empirical claim is asserted yet** pending §0 in the proxy-model note (derived δ, blank-gate report, or §0.3 unmeasurable report).
 
 **Prioritized next steps:**
-1. Produce a one-page effective model or stochastic description for a **chosen** field proxy. → see [`docs/proxy-model-rp-geomagnetic.md`](./docs/proxy-model-rp-geomagnetic.md) (§0 gate: pre-register a deviation from standard RP before any GUH-bearing toy model).
+1. Complete the §0 gate for the locked RP–geomagnetic scaffolding (derivation worksheet → ready-to-test δ, blank-gate report, or §0.3 OOM report). → see [`docs/proxy-model-rp-geomagnetic.md`](./docs/proxy-model-rp-geomagnetic.md) (scaffolding model already present; do not treat reproducing standard RP as a GUH result).
 2. Publish an energy-budget table versus \(kT\) and known backgrounds. → see [`docs/energy-budget-sketch.md`](./docs/energy-budget-sketch.md); filled Chosen proxy: [`docs/chosen-proxy.md`](./docs/chosen-proxy.md)
-3. Pre-register falsifiers for that proxy / transducer pair.
+3. Only after a ready-to-test §0 δ: pre-register GUH-bearing falsifiers for that derived deviation (scaffolding / RP-in-system checks alone are not enough).
 4. Seek peer critique of the model, budget, and falsifiers.
 5. Only then consider **Option B** (literal scalar / dark-energy coupling consistent with bounds) or expansion of applied briefs.
 

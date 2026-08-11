@@ -1,7 +1,7 @@
 # Applied research brief: neurodegeneration (placeholder)
 
 **Status:** Draft / not a research finding  
-**Parent:** Great Unification Hypothesis (GUH) v1.1  
+**Parent:** Great Unification Hypothesis (GUH) v1.2 (Option A)  
 **Classification:** Open questions for independent labs only  
 **Does not claim:** clinical efficacy, diagnostic value, treatment guidance, or a demonstrated coupling between cosmological fields and disease.
 
@@ -41,11 +41,11 @@ Disease names invite overinterpretation. Publishing them next to a speculative c
 
 ## Suggested next step
 
-Do **not** expand this file until the parent GUH document commits to either:
-- **Option A:** drop cosmological dark-energy branding and specify a testable environmental-field program, or
-- **Option B:** a literal scalar / dark-energy coupling model consistent with existing bounds,
+Do **not** expand this file until the parent program either:
+- fills `docs/proxy-model-rp-geomagnetic.md` §0 with a **GUH-derived** deviation δ from standard RP (ready-to-test), or
+- publishes an explicit **blank-gate** / §0.2 report (or a §0.3 derivable-but-unmeasurable OOM report),
 
-…and publishes an energy-budget table plus falsifiers.
+and keeps this brief questions-only / non-clinical. Option A reframing and the energy-budget sketch are already in the parent v1.2 docs — that is **not** a green light to expand disease content.
 
 ---
 
