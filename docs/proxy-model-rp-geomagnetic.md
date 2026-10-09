@@ -22,7 +22,7 @@ Before any toy-Hamiltonian computation of \(\Phi_S(B,\theta)\) at \(50\,\mu\math
 | **GUH-lose condition** | Data consistent with standard RP within \(\varepsilon\) **or** \(\delta\) absent where predicted — **GUH’s added claim fails** (RP may still succeed) |
 | **Non-result for GUH** | RP fails in the system under test → scaffolding unavailable; **not** a GUH falsification |
 
-**Rule:** without a filled deviation row, every agreement with RP looks like GUH success and every difference looks like GUH signal — a test that cannot lose. **Do not run the §7 toy model as a GUH test until this table is filled.**
+**Rule:** without a filled deviation row, every agreement with RP looks like GUH success and every difference looks like GUH signal — a test that cannot lose. **Do not run the §7 toy model as a GUH test until the derived and measurable δ satisfies the ready-to-test gate (§§0.1–0.4) and this table is filled and frozen.**
 
 ### 0.1 Derivation test (before filling δ)
 
@@ -30,15 +30,16 @@ Before any toy-Hamiltonian computation of \(\Phi_S(B,\theta)\) at \(50\,\mu\math
 
 Before writing anything into the “Predicted GUH deviation” row, answer:
 
-1. Can δ be **derived** from the substance of GUH (its cosmological / holographic / background-field commitments) via an explicit chain of steps that ends at an RP observable (e.g. a shift in \(\Phi_S\), a changed RF cutoff, a changed Earth-strength window)?
+1. Can δ be **derived** from the substance of GUH (an explicitly stated GUH-specific physical commitment, with its source) via an explicit chain of steps that ends at an RP observable (e.g. a shift in \(\Phi_S\), a changed RF cutoff, a changed Earth-strength window)?
 2. Or would δ have to be **chosen** because it is measurable with the RP scaffolding we already have?
 
-- If (1): fill §0; the program is real.
+- If (1): document the derivation under §0.4 and assess measurability under §0.3. Fill and freeze §0 as **ready to test** only if the derived δ is measurable with a concrete assay at a pre-registered \(\varepsilon\), with controls and explicit GUH-win/lose conditions. Derivability alone does not make the program ready to test.
 - If (2): **do not fill §0.** A number shaped like a prediction but chosen for measurability is a formality wearing prediction’s clothes — harder to catch than the original non-bearing test, because it has the external marks of discipline.
 
 ### 0.2 The gate may be honestly unfillable
 
-GUH is a cosmological / holographic-scale frame. “What does that frame predict about cryptochrome recombination yields?” may have **no honest answer** — not because GUH is worthless, but because the scales are not joined by any derivation chain.
+GUH v1.2 Option A does not assert a cosmological or holographic coupling.
+Such a commitment must be explicitly stated if used in a derivation. “What does that frame predict about cryptochrome recombination yields?” may have **no honest answer** — not because GUH is worthless, but because the scales are not joined by any derivation chain.
 
 If so, the correct outcome is:
 
@@ -47,6 +48,16 @@ If so, the correct outcome is:
 - treat that report as a result of the same class as an impossibility / no-go note: it tells the next person this path leads to scaffolding, not to a GUH-bearing test, and why.
 
 **Filling §0 with anything just to proceed is worse than leaving it blank.**
+
+**Gate audit — 2026-10-08; reviewed head c167a4865db8eb110388b105fb904f79c8d85df0:**
+Outcome: blank-gate under §0.2, relative to the reviewed documents.
+No GUH-specific physical commitment determines a local modification
+or a change to the RP Hamiltonian/open-system dynamics.
+Under the literal worksheet, step 1 is absent; using README §3.2
+as the starting proposition, the first unsupported link is 1→2.
+δ remains unspecified, not zero. This is not a proof that a future
+derivation is impossible. Reopen only after an explicit physical
+commitment and derivation are documented.
 
 ### 0.3 Third outcome: derivable but unmeasurable
 
@@ -65,8 +76,10 @@ Write the chain explicitly. Do not skip to a measurable number.
 
 **Required shape:**
 
-1. GUH holographic / boundary / cosmological commitment (state the exact claim used)  
-2. → implied modification of local vacuum and/or metric (what quantity changes?)  
+1. Explicit GUH-specific physical commitment (state the exact claim
+   and source; holographic / boundary / cosmological only if asserted)  
+2. → implied local physical modification (name the quantity and
+   coupling law; vacuum/metric only if required by step 1)  
 3. → influence on a **specific term in the RP spin Hamiltonian** (must be one of the closed list below)  
 4. → predicted change in an RP observable at Earth strength (e.g. \(\Delta\Phi_S\) at \(50\,\mu\mathrm{T}\), shift of RF cutoff, shift of functional window) with magnitude
 
@@ -81,7 +94,7 @@ Write the chain explicitly. Do not skip to a measurable number.
 
 **Derivability test:** Does GUH’s own text/commitments say anything that constrains **any** of these four slots via steps 1→2→3?  
 
-- Yes, with magnitude above noise → fill §0 (ready to test).  
+- Yes, with a quantified observable change measurable against noise and assay resolution at a pre-registered \(\varepsilon\), with controls → fill and freeze §0, including GUH-win/lose conditions (ready to test).  
 - Yes, but magnitude ≪ noise → §0.3 report (derivable but unmeasurable).  
 - No / chain breaks at step 2 or 3 → leave δ empty; §0.2 blank-gate report.
 
@@ -160,11 +173,13 @@ Neurodegeneration; consciousness unification; Dark Energy coupling; human compas
 
 ## 7. Next modeling steps (order enforced)
 
-1. **Fill §0** — run derivation-chain worksheet (§0.4) after derivation test (§0.1). Three outcomes: **ready to test** (fill \(\delta\) + win/lose); **blank-gate** (§0.2 — publish empty-\(\delta\) report, do not invent \(\delta\)); **derivable but unmeasurable** (§0.3 — OOM report, do not enter as a GUH-win/lose bet). **Hard gate.**  
-2. Only then: hyperfine toy model for \(\Phi_S(B,\theta)\) at \(50\,\mu\mathrm{T}\), with separate columns for \(\mathrm{RP_{std}}\) vs \(\mathrm{RP_{std}}+\delta\).  
+1. **Fill §0** — run derivation-chain worksheet (§0.4) after derivation test (§0.1). Three outcomes: **ready to test** (derived and measurable \(\delta\); fill and freeze §0, including observable, assay, \(\varepsilon\), controls and win/lose); **blank-gate** (§0.2 — publish empty-\(\delta\) report, do not invent \(\delta\)); **derivable but unmeasurable** (§0.3 — OOM report, do not enter as a GUH-win/lose bet). **Hard gate.**  
+2. **Only after the ready-to-test outcome in step 1** (derived and measurable \(\delta\), with §0 filled and frozen): hyperfine toy model for \(\Phi_S(B,\theta)\) at \(50\,\mu\mathrm{T}\), with separate columns for \(\mathrm{RP_{std}}\) vs \(\mathrm{RP_{std}}+\delta\).  
 3. Coherence/lifetime bounds for detectability of \(\delta\) (not merely of RP).  
 4. Optional: RF probe spectrum vs 116 MHz cutoff as calibration of the apparatus — still scaffolding unless \(\delta\) lives in the spectrum.  
-5. Pre-register \(\varepsilon\) against a concrete assay before claiming any Option A “GUH test passed.”
+5. Use the \(\varepsilon\), concrete assay, controls and GUH-win/lose conditions frozen in §0 before modeling the GUH comparison; assess results against that preregistration before claiming any Option A “GUH test passed.”
+
+**Independent standard-RP modeling** may proceed solely as calibration or methodological scaffolding, including for blank-gate and derivable-but-unmeasurable outcomes. It does not authorize \(\mathrm{RP_{std}}+\delta\) modeling as a GUH test or establish a GUH-bearing result.
 
 ---
 
@@ -178,4 +193,4 @@ Neurodegeneration; consciousness unification; Dark Energy coupling; human compas
 
 ---
 
-**One-line summary:** RP + geomagnetic \(B\) is locked as **scaffolding** for Option A. It is not unique to GUH and does not currently test GUH. A GUH-bearing program starts only when a deviation from standard RP is pre-registered — and can lose.
+**One-line summary:** RP + geomagnetic \(B\) is locked as **scaffolding** for Option A. It is not unique to GUH and does not currently test GUH. A GUH-bearing test program starts only when a derived and measurable deviation from standard RP satisfies the ready-to-test §0 gate and is pre-registered — and can lose.
